@@ -12,6 +12,9 @@ Existing CSS classes have been consolidated (or eliminated) to reduce redundancy
 All image elements now have an "alt" attribute or an "aria-label" to further promote accessibility.
 
 ---
+## Deployed link
+
+https://jamesxalis.github.io/Improving_Webpage_Accessibility/
 
 ## Installation
 
